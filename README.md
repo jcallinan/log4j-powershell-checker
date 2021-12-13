@@ -1,6 +1,7 @@
 # CHAPTER8 - log4j PowerShell Checker
 
 ** added scan_for_apache.ps1 to look for servers running Apache, Apache Tomcat 
+** added scan_everything_for_apache.ps1 to look for anything running Apache, Apache Tomcat 
 
 **[CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-44228)**
 

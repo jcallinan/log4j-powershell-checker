@@ -1,3 +1,5 @@
+# needs https://www.microsoft.com/en-us/download/details.aspx?id=45520
+
 Get-WindowsCapability -Name RSAT.ActiveDirectory* -Online | Add-WindowsCapability -Online
 
 
